@@ -1,0 +1,135 @@
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: white;
+    color: #4CAF50;
+    border: 1px solid #4CAF50;
+    border-radius: 8px;
+}
+
+.button1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: white;
+    color: #4CAF50;
+    border: 1px solid #4CAF50;
+    border-radius: 8px;
+}
+
+.button1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.imgBox {
+    border-top: 2px solid cadetblue;
+    width: 90%;
+    margin: 0 auto;
+
+}
+
+.imgBox img {
+    width: 100%;
+
+}
+
+.img1 {
+    padding-top: 40px;
+    display: none;
+}
+
+.img2 {
+    padding-top: 40px;
+    display: none;
+}
+
+.img3 {
+    padding-top: 40px;
+    display: none;
+}
+
+.yjdiv {
+    padding: 5px;
+    border-radius: 8px;
+    background-color: #fcfcfc;
+    box-shadow: 0px 0px 1px #000;
+    word-break: break-all;
+    word-wrap: break-word;
+    white-space: normal;
+    display: inline-block;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 320px;
+    height: 150px;
+}
+
+.footer-bar_wrapper_10YKs {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+}
+
+.titles {
+    display: inline-block;
+    text-align: center;
+    font-size: 18px;
+    color: #000000;
+    font-weight: 400;
+    height: 14px;
+}
+
+.dis {
+    display: inline-block;
+    font-family: 宋体;
+    text-align: center;
+    font-size: 16px;
+    color: #4e4e4e;
+    font-weight: 400;
+    height: 14px;
+}
+
+.button1 {
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+    font-size: 18px;
+    margin-top: 10px
+}
+
+.button1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
