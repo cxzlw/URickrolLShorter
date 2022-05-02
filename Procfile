@@ -1,1 +1,1 @@
-web: gunicorn -w 32 app:app
+web: gunicorn -w 16 app:app
