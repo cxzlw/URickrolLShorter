@@ -1,3 +1,4 @@
+import os
 import random
 
 from flask import Flask, render_template, request, redirect, url_for
@@ -82,7 +83,8 @@ def init_db():
     print('数据库初始化完成!')
 
 
-init_db()
+if not os.path.exists("data.db"):
+    init_db()
 
 if __name__ == '__main__':
     app.run()
